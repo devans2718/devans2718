@@ -8,6 +8,8 @@ M.S. Data Science student at UMKC, background in linguistics and Russian. I buil
 
 **[HyperLogistics](https://github.com/mosomo82/CS5542_SmartSC_Optimization_System)**. Snowflake-native RAG system for real-time freight rerouting during weather/accident disruptions. Team of three; I led application, LLM reasoning evaluation, and DevOps. Built a 63-scenario model evaluation harness and the project's CI/CD pipeline.
 
+**[extract_jams](https://github.com/devans2718/extract_jams)**. Desktop tool that pulls the worthwhile sections out of multi-hour band practice recordings: RMS energy detection finds candidate jams, a review pass auditions and trims them by ear, and a dynamics and EQ chain exports tagged MP3s. Solo project, written for my own band and developed against real sessions — the polish chain measures each session's loudness before processing, so it behaves the same from one recording to the next. Python and tkinter, non-destructive throughout: everything but the audio itself lives in a session manifest.
+
 ## Background
 
 - B.A. Linguistics, B.A. Russian (University of Missouri). Includes fieldwork on an underdocumented Bantu language (Ikinyamulenge) and a word-embeddings analysis of Soviet propaganda rhetoric
